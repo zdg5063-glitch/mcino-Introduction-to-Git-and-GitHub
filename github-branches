@@ -1,0 +1,3 @@
+zg@Zacharys-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/5726 | jq -r '.head.repo.clone_url'
+
+https://github.com/zdg5063-glitch/mcino-Introduction-to-Git-and-GitHub.git
