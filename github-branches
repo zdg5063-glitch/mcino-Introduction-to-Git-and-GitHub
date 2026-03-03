@@ -1,0 +1,4 @@
+zg@Zacharys-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % git branch -vv
+* bug-fix-revert 29563b6 Revert "Update README.md" This reverts commit d8324ad0ec067ab2eb9af55d2819104be2e42e3f.
+  bug-fix-typo   4e6c180 [origin/bug-fix-typo] Changed footer to 2023
+  main           4e6c180 [origin/main] Changed footer to 2023
