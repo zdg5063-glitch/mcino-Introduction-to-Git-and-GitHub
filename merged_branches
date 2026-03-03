@@ -1,0 +1,12 @@
+zg@Zacharys-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+zg@Zacharys-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % git merge bug-fix-typo
+Updating ad95b0a..4e6c180
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+zg@Zacharys-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % git push origin main
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/zdg5063-glitch/mcino-Introduction-to-Git-and-GitHub.git
+   ad95b0a..4e6c180  main -> main
